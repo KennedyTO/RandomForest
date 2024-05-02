@@ -1,22 +1,22 @@
 # RandomForest
 Welcome to my GitHub for my 4th-year thesis, where I share the code for the models I made in my research.
 
-Title:<br>
+<b>Title:<br></b>
 Advancing Replicability: The Potential of Random Forests - Comparative Study of Machine Learning Models
 
-Author:<br> 
+<b><b>Author:<br></b> 
 Kentaro Suzuki
 
-The data can be found at: <br>
+<b>The data can be found at: <br></b>
 https://osf.io/ngdz8/
 
-The Author:<br>
+<b>The Author:<br></b>
 Puah, S. (2021, January 28). Predicting Students’ Academic Performance: 
 A Comparison between Traditional MLR and Machine Learning Methods with PISA 2015. 
 https://doi.org/10.31234/osf.io/2yshm
 
-File name: <br>
+<b>File name: <br></b>
 completedData.merged.csv
 
-Note: <br>
+<b>Note: <br></b>
 I modelled my research based on Puah (2021) and others.
