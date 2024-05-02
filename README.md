@@ -1,11 +1,9 @@
 # RandomForest
 My 4th Year Thesis By Ken Suzuki
 
-#######################################################
 Title:
 Advancing Replicability: The Potential of Random Forests
 Comparative Study of Machine Learning Models
-########################################################
 
 Welcome to my GitHub for my 4th-year thesis, where I share the code for the models I made in my research.
 
