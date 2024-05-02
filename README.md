@@ -4,7 +4,7 @@ Welcome to my GitHub for my 4th-year thesis, where I share the code for the mode
 <b>Title:<br></b>
 Advancing Replicability: The Potential of Random Forests - Comparative Study of Machine Learning Models
 
-<b><b>Author:<br></b> 
+<b>Author:<br></b> 
 Kentaro Suzuki
 
 <b>The data can be found at: <br></b>
