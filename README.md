@@ -10,7 +10,7 @@ Kentaro Suzuki
 <b>The data can be found at: <br></b>
 https://osf.io/ngdz8/
 
-<b>The Author fo the Original Study:<br></b>
+<b>The Author of the Original Study:<br></b>
 Puah, S. (2021, January 28). Predicting Students’ Academic Performance: 
 A Comparison between Traditional MLR and Machine Learning Methods with PISA 2015. 
 https://doi.org/10.31234/osf.io/2yshm
